@@ -1,3 +1,5 @@
+![Polis Logo](/assets/logopolis.jpg)
+
 # Water Bottle Image Classification Project
 
 ## Description
@@ -175,3 +177,9 @@ The diagram illustrates a typical scenario of overfitting where training accurac
 - **Complexity vs. Performance**: While the convolutional model improved over the baseline, the pre-trained model achieved the highest accuracy with fewer training epochs and parameters.
 
 - **Practical Application**: For tasks with limited training data, leveraging pre-trained models can significantly enhance model performance and reduce the risk of overfitting.
+
+## Contributors
+
+### Massimo Hamzaj
+### Gerti Gegollari
+### Rei Ikonomi
